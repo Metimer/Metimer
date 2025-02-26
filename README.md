@@ -2,10 +2,6 @@
 
 Welcome to my GitHub profile! I'm a passionate Analyst always eager to learn and create cool projects. Here you can find my latest repositories, contributions, and more. 😎
 
-### 🐍 Snake Game on My GitHub Profile
-
-Check out my awesome [Snake Game](https://github.com/Metimer/Metimer/blob/output/github-snake-dark.svg), generated automatically with GitHub Actions!
-
 ![Snake animation](https://github.com/Metimer/Metimer/blob/output/github-snake-dark.svg)
 
 ### 🔧 Technologies & Tools
@@ -37,7 +33,7 @@ I'm a curious learner and always on the lookout for new challenges. Whether it's
 ### 🔗 Links
 
 - [GitHub Profile](https://github.com/Metimer)
-- [LinkedIn]([https://linkedin.com/in/metimer](https://fr.linkedin.com/in/merwane-metina-3703b7224))
+- [LinkedIn](https://fr.linkedin.com/in/merwane-metina-3703b7224)
 
 ---
 
