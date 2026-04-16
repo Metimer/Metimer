@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Data+Scientist;AI+Developer;Data+Engineer;Building+agents+that+actually+work.)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvs/?username=Metimer&color=blueviolet&style=flat-square)
+![Profile Views](https://moe-counter.glitch.me/get/@Metimer?theme=rule34)
 
 ---
 
