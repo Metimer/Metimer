@@ -42,6 +42,7 @@ Currently exploring the intersection of RAG architectures, agentic workflows, an
 
 **Email:** [metinamerwane@gmail.com](mailto:metinamerwane@gmail.com)
 **LinkedIn:** [Merwane Metina](https://fr.linkedin.com/in/merwane-metina-3703b7224)
+**WebSite** [Metimer - Horizon 2026 ](https://metimer.dev/)
 
 ---
 
