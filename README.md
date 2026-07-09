@@ -110,4 +110,4 @@ Open to conversations about **RAG**, **agents**, **data platforms**, and AI prod
 
 > If you have a few spare tokens in your context window, let's connect.
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=110&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,12,19&height=170&section=footer&text=Build.%20Evaluate.%20Ship.&fontSize=28&fontColor=FFFFFF&animation=fadeIn&stroke=58A6FF&strokeWidth=1)
