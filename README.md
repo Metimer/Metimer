@@ -1,8 +1,8 @@
-![Header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,12,19&height=260&section=header&text=Metimer&fontSize=64&fontColor=FFFFFF&desc=Data%20Scientist%20%7C%20AI%20Developer%20%7C%20Data%20Engineer&descSize=18&descAlign=50&descAlignY=66&animation=fadeIn&stroke=58A6FF&strokeWidth=1)
+![Header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,12,19&height=270&section=header&text=Metimer&fontSize=68&fontColor=FFFFFF&desc=Data%20Scientist%20%7C%20AI%20Developer%20%7C%20Data%20Engineer&descSize=18&descAlign=50&descAlignY=66&animation=fadeIn&stroke=58A6FF&strokeWidth=1)
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=720&lines=Data+Scientist;AI+Developer;Data+Engineer;RAG%2C+agents%2C+and+production-grade+LLM+systems;Building+agents+that+actually+work." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=760&lines=Data+Scientist;AI+Developer;Data+Engineer;RAG%2C+agents%2C+and+production-grade+LLM+systems;Building+agents+that+actually+work." alt="Typing SVG" />
   </a>
 </p>
 
@@ -12,13 +12,34 @@
   <a href="https://fr.linkedin.com/in/merwane-metina-3703b7224"><img src="https://img.shields.io/badge/LinkedIn-Merwane%20Metina-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-RAG%20Systems-0D1117?style=flat-square&labelColor=0D1117&color=58A6FF" alt="RAG Systems" />
+  <img src="https://img.shields.io/badge/Focus-Agentic%20Workflows-0D1117?style=flat-square&labelColor=0D1117&color=7C3AED" alt="Agentic Workflows" />
+  <img src="https://img.shields.io/badge/Focus-Data%20Platforms-0D1117?style=flat-square&labelColor=0D1117&color=1F6FEB" alt="Data Platforms" />
+</p>
+
 ---
 
-### I build AI systems that move from notebook to production.
+<h3 align="center">I turn data, models, and tools into AI systems people can actually use.</h3>
 
-I design data pipelines, train and evaluate models, and ship LLM-powered agents with a focus on reliability, retrieval quality, and real-world usage.
+<p align="center">
+  I build the data layer, evaluate the model layer, and ship the product layer.
+  My work sits at the intersection of data engineering, applied machine learning,
+  and LLM systems designed for real production constraints.
+</p>
 
-Currently exploring **RAG architectures**, **agentic workflows**, **LLM evaluation**, and the engineering work required to make AI systems useful outside demos.
+<p align="center">
+  Currently focused on retrieval quality, agent reliability, evaluation loops,
+  and the engineering discipline required to move beyond impressive demos.
+</p>
+
+---
+
+### Operating System
+
+| Build | Evaluate | Ship |
+|---|---|---|
+| Data pipelines, feature flows, retrieval indexes, APIs | RAG quality, model behavior, latency, cost, failure modes | Agents, dashboards, automations, internal tools |
 
 ---
 
@@ -50,14 +71,14 @@ Currently exploring **RAG architectures**, **agentic workflows**, **LLM evaluati
 
 ---
 
-### What I Work On
+### Workbench
 
-| Area | Focus |
+| Area | What I care about |
 |---|---|
-| **Data Engineering** | Pipelines, orchestration, dbt models, analytics-ready datasets |
-| **Machine Learning** | Model training, evaluation, feature design, experimentation |
-| **LLM Systems** | RAG, agents, tool use, retrieval quality, production workflows |
-| **BI & Analytics** | Dashboards, semantic layers, decision-support interfaces |
+| **Data Engineering** | Reliable ingestion, clean transformations, orchestration, lineage, analytics-ready datasets |
+| **Machine Learning** | Experiment design, model evaluation, feature quality, measurable iteration |
+| **LLM Systems** | Retrieval quality, agents with tools, context design, observability, cost control |
+| **BI & Analytics** | Decision-support dashboards, semantic models, business-facing clarity |
 
 ---
 
@@ -86,7 +107,7 @@ Currently exploring **RAG architectures**, **agentic workflows**, **LLM evaluati
 
 ---
 
-### Reach Me
+### Connect
 
 <p align="center">
   <a href="mailto:metinamerwane@gmail.com">
@@ -101,6 +122,10 @@ Currently exploring **RAG architectures**, **agentic workflows**, **LLM evaluati
 </p>
 
 <p align="center">
+  <b>Open to conversations about RAG, agents, data platforms, and AI products that need to work in the real world.</b>
+</p>
+
+<p align="center">
   <a href="mailto:metinamerwane@gmail.com">Email</a>
   ·
   <a href="https://fr.linkedin.com/in/merwane-metina-3703b7224">LinkedIn</a>
@@ -108,10 +133,16 @@ Currently exploring **RAG architectures**, **agentic workflows**, **LLM evaluati
   <a href="https://metimer.dev/">Website</a>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Available_for-AI%20projects-0D1117?style=flat-square&labelColor=0D1117&color=58A6FF" alt="AI projects" />
+  <img src="https://img.shields.io/badge/Available_for-Data%20engineering-0D1117?style=flat-square&labelColor=0D1117&color=1F6FEB" alt="Data engineering" />
+  <img src="https://img.shields.io/badge/Available_for-LLM%20systems-0D1117?style=flat-square&labelColor=0D1117&color=7C3AED" alt="LLM systems" />
+</p>
+
 ---
 
 <p align="center">
-  <i>If you've got a few spare tokens in your context window, let's connect.</i>
+  <i>If you have a few spare tokens in your context window, let's connect.</i>
 </p>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,12,19&height=140&section=footer&text=Build.%20Evaluate.%20Ship.&fontSize=26&fontColor=FFFFFF&animation=fadeIn)
